@@ -4,7 +4,7 @@ import com.alibaba.excel.ExcelWriter;
 import com.alibaba.excel.metadata.Sheet;
 import com.alibaba.excel.support.ExcelTypeEnum;
 import com.github.arnold.entity.BpmAccount;
-import org.springframework.stereotype.Service;
+//import org.springframework.stereotype.Service;
 
 import java.io.*;
 import java.text.SimpleDateFormat;
@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-@Service
+//@Service
 public class ExcelWriterServiceImpl implements com.github.arnold.excel.ExcelWriterService {
 
 
